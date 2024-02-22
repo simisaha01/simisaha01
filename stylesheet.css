@@ -1,0 +1,50 @@
+@font-face {
+    src: url("file:fonts/Inter-Black.ttf");
+}
+
+@font-face {
+    src: url("file:fonts/Inter-Bold.ttf");
+}
+
+.label {
+    -fx-font: 32px "Inter Black";
+    -fx-text-fill: "White";
+}
+
+.button {
+    -fx-background-color: #976240;
+    -fx-background-radius: 16px;
+    -fx-border-color: #acaeb5;
+    -fx-border-width: 3px;
+    -fx-border-radius: 8px;
+    -fx-font: 16px "Inter Black";
+    -fx-text-fill: #eff4ff;
+    -fx-effect: dropshadow(three-pass-box, rgb(48, 48, 48), 5, 0, 0, 3);
+}
+
+#image {
+    -fx-effect: dropshadow(three-pass-box, rgb(48, 48, 48), 5, 0, 0, 3);
+}
+
+#button {
+    -fx-effect: dropshadow(three-pass-box, rgb(48, 48, 48), 5, 0, 0, 3);
+}
+
+#pane {
+    -fx-background-image: url("file:images/Table.png");
+    -fx-background-color: "Gainsboro";
+    -fx-background-size: cover;
+}
+
+#title {
+    -fx-font: 32px "Inter Black";
+}
+
+#game-pane {
+    -fx-background-image: url("file:images/Table.png");
+    -fx-background-size: cover;
+}
+
+#card {
+    -fx-effect: dropshadow(three-pass-box, rgba(31, 31, 31, .4), 10, 0, -2, 1);
+}
