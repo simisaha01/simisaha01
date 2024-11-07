@@ -1,7 +1,7 @@
 - Hi, I’m @simisaha01
-- I'm a Computer Science and a Data Science major.
-- I’m interested in coding and painting 
-- I’m currently learning Python
+- 🎓 Computer Science major with a Mathematics minor.
+- 💻 Passionate about coding, especially in Python, Java, and JavaScript.
+- 📚 Currently expanding my skills in Python and software development.
 
 
 <!---
